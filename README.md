@@ -17,25 +17,27 @@
 ![suyash's github activity graph](https://activity-graph.herokuapp.com/graph?username=suyashmorale&theme=react-dark	)
  
   
-## A Tech-savvy || Web Developer || Passionate Programmer
+## A Tech-savvy || AI-ML Enthusiast || Passionate Programmer
 ###
   
 ## 😃 About me 
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science Dept. 
- - 📚 I’m currently learning Data Science frameworks like  etc.
- - 🍳Find me on LinkedIn [![linkedin](https://img.shields.io/badge/suyash%20morale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyashmorale/) || 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/moralesuyash?style=flat-square&logo=twitter&color=blue)]
+ - 📚 I’m currently learning Machine learning and Deep learning algorithms.
+ - 🍳Find me on LinkedIn [![linkedin](https://img.shields.io/badge/suyash%20morale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-morale/) 
  
  
  - 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/suyash%20morale-5ab74819b?style=flat-square&color=white&logo=gmail)](mailto:suyashsmorale@gmail.com)
  
 
- - 🗣 Knows English, Hindi, Marathi, German .
+ - 🗣 Knows English, Hindi, Marathi.
 
 
  ### 🛠 Skills
-- C, C++, Python ,  Al & Ml , DSA
-- Front-end Developing (HTML , CSS)  
+- Python
+- Machine learning and deep learning Algorithms
+- OpenCV
+- NLP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashmorale&theme=github_dark&layout=compact)](https://github.com/suyashmorale/github-readme-stats)
 
