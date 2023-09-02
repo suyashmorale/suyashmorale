@@ -17,7 +17,7 @@
 ![suyash's github activity graph](https://activity-graph.herokuapp.com/graph?username=suyashmorale&theme=react-dark	)
  
   
-## A Tech-savvy || AI-ML Enthusiast || Passionate Programmer
+## AI-ML Enthusiast || Passionate Programmer
 ###
   
 ## 😃 About me 
