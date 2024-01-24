@@ -38,6 +38,10 @@
 - Machine learning and deep learning Algorithms
 - OpenCV
 - NLP
+- llm
+- NodeJs
+- MySQL
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashmorale&theme=github_dark&layout=compact)](https://github.com/suyashmorale/github-readme-stats)
 
