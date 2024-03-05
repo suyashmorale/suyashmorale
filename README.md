@@ -36,12 +36,17 @@
 
  ### 🛠 Skills
 - Python
-- Machine learning and deep learning Algorithms
-- OpenCV
-- NLP
-- llm
+- Machine learning Algorithms (Supervised, Unsupervised)
+- Data analysis
+- Deep Learning (ANN,CNN,RNN,LSTM)
+- Transformers
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
 - NodeJs
 - MySQL
+- HTML
+- CSS
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashmorale&theme=github_dark&layout=compact)](https://github.com/suyashmorale/github-readme-stats)
