@@ -26,7 +26,7 @@
  - 📚 I’m currently learning Machine learning and Deep learning algorithms.
  - 🍳Find me on LinkedIn [![linkedin](https://img.shields.io/badge/suyash%20morale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-morale/) 
  
- - Kaggle Work ![kaggle](https://img.shields.io/badge/kaggle-FFCC00?style=flat-square&logo=kaggle&logoColor=white) (https://www.kaggle.com/suyashsunilraomorale)
+ - Kaggle Work [![kaggle](https://img.shields.io/badge/kaggle-FFCC00?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/suyashsunilraomorale)
    
  - 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/suyash%20morale-5ab74819b?style=flat-square&color=white&logo=gmail)](mailto:suyashsmorale@gmail.com)
  
